@@ -48,7 +48,7 @@ This will run the app in development mode. Open [http://localhost:3000](http://l
 
 ## Preview
 
-[Place Picker](/src/assets/screenshot.jpeg)
+![Place Picker](/src/assets/screenshot.jpeg)
 
 ## Functionality
 
